@@ -3,6 +3,8 @@
 A multi-page static website for a nutritionist, built with HTML and CSS as a PUCPR
 assignment (TDE).
 
+![Vittas - nutritionist website](docs/home.png)
+
 ## Pages
 
 Home, services, referrals and contact. The files are under
