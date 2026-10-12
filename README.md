@@ -7,8 +7,7 @@ assignment (TDE).
 
 ## Pages
 
-Home, services, referrals and contact. The files are under
-`tde_02 (2)/tde_02/tde_02/`.
+Home, services, referrals and contact.
 
 ## Tech
 
@@ -17,7 +16,8 @@ Home, services, referrals and contact. The files are under
 
 ## Running
 
-Open `tde_02 (2)/tde_02/tde_02/index.html` in a browser.
+Open `index.html` in a browser, or visit the live site:
+https://ribasgiovanna.github.io/Jennifer-Amaral-/
 
 ## Authorship
 
